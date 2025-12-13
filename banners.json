@@ -1,18 +1,18 @@
 {
-  "id": "update_0.6.0",
-  "enabled": false,
+  "id": "update_0.5.1",
+  "enabled": true,
   "type": "update",
   "title": "Update Available",
-  "message": "Version 0.5.0 is live with groundbreaking changes.",
+  "message": "emergency bug fix! your server browser will not work unless you update your client.",
   "cta": {
-    "enabled": true,
+    "enabled": false,
     "text": "View Changelog",
     "url": "https://pompompurin.tech"
   },
   "dismissible": true,
   "colors": {
     "background": "#0F172A",
-    "border": "#38BDF8",
+    "border": "#CC4CC3",
     "title": "#E5E7EB",
     "message": "#CBD5E1",
     "buttonBackground": "#38BDF8",
