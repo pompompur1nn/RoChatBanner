@@ -1,11 +1,11 @@
 {
   "id": "update_0.5.0",
-  "enabled": false,
+  "enabled": true,
   "type": "update",
   "title": "Update Available",
   "message": "Version 0.5.0 is live with groundbreaking changes.",
   "cta": {
-    "enabled": false,
+    "enabled": true,
     "text": "View Changelog",
     "url": "https://pompompurin.tech"
   },
