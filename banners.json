@@ -1,13 +1,13 @@
 {
-  "id": "update_0.5.1",
+  "id": "update_0.5.2",
   "enabled": true,
   "type": "update",
-  "title": "Update Available",
-  "message": "emergency bug fix! your server browser will not work unless you update your client.",
+  "title": "sorry again",
+  "message": "YET ANOTHER emergency bug fix! your server browser will not work unless you update your client.",
   "cta": {
     "enabled": true,
     "text": "Download",
-    "url": "https://github.com/pomsaddons/RoChat/releases/tag/Bugfix0.5.1"
+    "url": "https://github.com/pomsaddons/RoChat/releases/tag/bugfix0.5.2"
   },
   "dismissible": true,
   "colors": {
