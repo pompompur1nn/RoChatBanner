@@ -5,9 +5,9 @@
   "title": "Update Available",
   "message": "emergency bug fix! your server browser will not work unless you update your client.",
   "cta": {
-    "enabled": false,
-    "text": "View Changelog",
-    "url": "https://pompompurin.tech"
+    "enabled": true,
+    "text": "Download",
+    "url": "https://github.com/pomsaddons/RoChat/releases/tag/Bugfix0.5.1"
   },
   "dismissible": true,
   "colors": {
