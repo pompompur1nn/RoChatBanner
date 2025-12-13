@@ -1,6 +1,6 @@
 {
   "id": "update_0.5.0",
-  "enabled": true,
+  "enabled": false,
   "type": "update",
   "title": "Update Available",
   "message": "Version 0.5.0 is live with groundbreaking changes.",
