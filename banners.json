@@ -1,6 +1,6 @@
 {
   "id": "update_0.5.2",
-  "enabled": true,
+  "enabled": false,
   "type": "update",
   "title": "sorry again",
   "message": "YET ANOTHER emergency bug fix! your server browser will not work unless you update your client.",
